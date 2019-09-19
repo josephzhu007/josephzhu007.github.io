@@ -7,3 +7,4 @@ This study utilized MIMIC method to deal with multiple covariates, multiple dime
 CFA indicated that the three-factor structure worked for the data. Both robust weighted least square (WLSMV) estimator and robust maximum likelihood (MLR) estimator were used in the parameter estimation to obtain items with DIF and items with DIF of meaningful effect size. 
 It was found in the study with MIMIC method that both in-school mathematics class periods and out-of-school study hours had partial effects on most items with meaningful DIF effects.
 
+Author: Joseph Zhu
